@@ -1,6 +1,6 @@
 # Games Repository *: ・ﾟ✧
 
-Welcome to my collection of fun and quirky games built with Python and Pygame ✨
+Welcome to my collection of fun and cozy games built with Python and Pygame ✨
 
 ## About
 
