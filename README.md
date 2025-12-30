@@ -16,7 +16,7 @@ Features:
 - Smooth jumping mechanics with gravity physics
 - Animated obstacles (snails and flying enemies)
 - Score tracking based on survival time
-- Pixel art aesthetic with charming graphics
+- Pixel art with charming graphics
 - Start/restart functionality with keyboard controls
 
 ## Requirements
